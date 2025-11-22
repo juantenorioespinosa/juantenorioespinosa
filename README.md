@@ -1,9 +1,7 @@
 ## Hi there 👋
 
-<!--
-**juantenorioespinosa/juantenorioespinosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Juan Tenorio, estudiante de desarrollo web fullstack.
+Ejemplo de fichero readme para personalizar mi perfil de Github
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

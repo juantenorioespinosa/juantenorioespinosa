@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 Juan Tenorio, estudiante de desarrollo web fullstack.
+
 Ejemplo de fichero readme para personalizar mi perfil de Github
 
 - 🔭 I’m currently working on ...

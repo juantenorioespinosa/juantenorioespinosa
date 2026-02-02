@@ -6,7 +6,7 @@ Mi nombre es Juan Tenorio, estudiante de desarrollo web fullstack.
     + Profundización en Backend: Mejorando mis habilidades con Python y el manejo de bases de datos mediante SQLAlchemy.
 - 💬 Pregúntame sobre: Python, bases de datos relacionales o lo que esté aprendiendo en mi formación Fullstack.
 - 📫 Cómo contactarme: juantenorioespinosa@gmail.com | www.linkedin.com/in/juan-tenorio-dev
-🛠️ Herramientas y Tecnologías:
+- 🛠️ Herramientas y Tecnologías:
     + Base de Datos: MySQL, MySQL Workbench (Diseño y administración).
     + ORM: SQLAlchemy (Manejo de modelos y consultas en Python).
     + Control de Versiones: Git y GitHub.

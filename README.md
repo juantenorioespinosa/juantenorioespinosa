@@ -1,14 +1,21 @@
-## Hi there 👋
+Mi nombre es Juan Tenorio, estudiante de desarrollo web fullstack.
 
-Juan Tenorio, estudiante de desarrollo web fullstack.
+- 🔭 Actualmente estoy trabajando en: Proyectos CRUD utilizando Python y SQLAlchemy para la gestión de bases de datos.
+- 🌱 Estoy aprendiendo:
+    + Fundamentos de Frontend: Iniciando mi camino con HTML5 para estructurar contenido web de forma semántica.
+    + Profundización en Backend: Mejorando mis habilidades con Python y el manejo de bases de datos mediante SQLAlchemy.
+- 💬 Pregúntame sobre: Python, bases de datos relacionales o lo que esté aprendiendo en mi formación Fullstack.
+- 📫 Cómo contactarme: juantenorioespinosa@gmail.com | www.linkedin.com/in/juan-tenorio-dev
+🛠️ Herramientas y Tecnologías:
+    + Base de Datos: MySQL, MySQL Workbench (Diseño y administración).
+    + ORM: SQLAlchemy (Manejo de modelos y consultas en Python).
+    + Control de Versiones: Git y GitHub.
+    + Backend: Python.
+    + Frontend: HTML5 (en formación)
 
-Ejemplo de fichero readme para personalizar mi perfil de Github
+Tech Stack: Python | SQLAlchemy | SQLite/PostgreSQL | HTML5 (En proceso 🏗️)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
